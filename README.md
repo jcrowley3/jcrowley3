@@ -23,7 +23,7 @@ I strive to design and build software that is: **Reliable**, **Maintainable**, *
 
 
 ### 🗒️ Random Code Snippets:
-- comng soon...
+- coming soon...
 
 
 <!--
