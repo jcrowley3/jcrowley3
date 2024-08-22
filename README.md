@@ -7,6 +7,7 @@ I strive to design and build software that is: **Reliable**, **Maintainable**, *
 - [LinkedIn](https://www.linkedin.com/in/joshua-crowley-3i7/)
 - [GitHub](https://github.com/jcrowley3)
 - [Email](mailto:jcrowley317@gmail.com)
+- or feel free to schedule an appointment on my [Calendly](https://calendly.com/joshcrowley/30min)
 
 ### 💬 The Basics:
 - I am a software engineer/developer, with a focus on backend development.
