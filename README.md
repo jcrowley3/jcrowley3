@@ -18,9 +18,9 @@ I strive to design and build software that is: **Reliable**, **Maintainable**, *
 ### 🔭 Career:
 - BS in Computer Science from Oregon State University
 - Software Engineer at Qorvo, Inc.
-- experience in manufacturing test software development and device automation, using Python, PyQt, and VB.NET
+  - experience in manufacturing test software development and device automation, using Python, PyQt, and VB.NET
 - Software Engineer at Blueboard, Inc.
-- experience in backend development, specifically with Python, FastAPI, Docker, and PostgreSQL
+  - experience in backend development, specifically with Python, FastAPI, Docker, and PostgreSQL
 
 
 ### 🗒️ Random Code Snippets:
