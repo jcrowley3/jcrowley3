@@ -24,7 +24,9 @@ I strive to design and build software that is: **Reliable**, **Maintainable**, *
 
 
 ### 🗒️ Random Code Snippets:
-- coming soon...
+- [FastAPI/Beanstalk App](https://github.com/jcrowley3/fast_stalk) Basic FastAPI app that consumes jobs from a Beanstalk queue
+- [Atari AI Bot](https://github.com/jcrowley3/bots-for-atari-games) Testing out soem cool neural networks and agent training
+<!--- [Basic Ruby Stuff](https://github.com/jcrowley3/tic-tac-toe)-->
 
 
 <!--
