@@ -24,9 +24,14 @@ I strive to design and build software that is: **Reliable**, **Maintainable**, *
 
 
 ### 🗒️ Random Code Snippets:
-- [FastAPI/Beanstalk App](https://github.com/jcrowley3/fast_stalk) Basic FastAPI app that consumes jobs from a Beanstalk queue
-- [Atari AI Bot](https://github.com/jcrowley3/bots-for-atari-games) Testing out soem cool neural networks and agent training
-<!--- [Basic Ruby Stuff](https://github.com/jcrowley3/tic-tac-toe)-->
+- [email signature](https://github.com/jcrowley3/email_signature) Custom email signature I created for personal use
+- Python Stuff
+  - [FastAPI/Beanstalk App](https://github.com/jcrowley3/fast_stalk) Basic python FastAPI app that consumes jobs from a Beanstalk queue
+  - [Treasure Vault](https://github.com/jcrowley3/treasure_vault) python FastAPI-based backend service that allows users to fetch random items or curated lists base on specific criteria
+  - [Signon App](https://github.com/jcrowley3/magic_signon) A Python sign-on app, fully functional but still a WIP. Uses FastAPI and AWS SQS for API requests and job handling. Local development is fully Dockerized with containers for AWS services, FastAPI, and PostgreSQL database. Solid test coverage via Pytest and Postman, with Alembic handling database migrations.
+- [Atari AI Bot](https://github.com/jcrowley3/bots-for-atari-games) Testing out some cool neural networks and agent training
+- Basic Ruby Stuff
+  - [COAD App](https://github.com/jcrowley3/cs362-coad-resources) A legacy software case study, ruby-on-rails app that deploys to Heroku
 
 
 <!--
