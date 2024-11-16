@@ -23,15 +23,16 @@ I strive to design and build software that is: **Reliable**, **Maintainable**, *
   - experience in backend development, specifically with Python, FastAPI, Docker, and PostgreSQL
 
 
-### 🗒️ Random Code Snippets:
+### 🗒️ GitHub Projects and Random Code Snippets:
 - [email signature](https://github.com/jcrowley3/email_signature) Custom email signature I created for personal use
-- Python Stuff
+- ***Python Stuff***
   - [FastAPI/Beanstalk App](https://github.com/jcrowley3/fast_stalk) Basic python FastAPI app that consumes jobs from a Beanstalk queue
   - [Treasure Vault](https://github.com/jcrowley3/treasure_vault) python FastAPI-based backend service that allows users to fetch random items or curated lists base on specific criteria
   - [Sign-on App](https://github.com/jcrowley3/magic_signon) A Python sign-on app, fully functional but still a WIP. Uses FastAPI and AWS SQS for API requests and job handling. Local development is fully Dockerized with containers for AWS services, FastAPI, and PostgreSQL database. Solid test coverage via Pytest and Postman, with Alembic handling database migrations.
   - [Barcode Scanner](https://github.com/jcrowley3/barcode_scanner) script to decode and encode pdf417 barcodes
+[Link Branch to Issue](https://gist.github.com/jcrowley3/4483b32c1c3837b7e559cf671cb847f5) GitHub Action to link a branch to an issue using an issue number in the branch name
 - [Atari AI Bot](https://github.com/jcrowley3/bots-for-atari-games) Testing out some cool neural networks and agent training
-- Basic Ruby Stuff
+- **Basic Ruby Stuff**
   - [COAD App](https://github.com/jcrowley3/cs362-coad-resources) A legacy software case study, ruby-on-rails app that deploys to Heroku
 
 
